@@ -36,7 +36,7 @@ On Going Reseach on Mediacal Side:
   - Preoperative Planning: Visualizing potential surgical outcomes based on textual descriptions.
   - Patient Consultations: Providing visual aids to help patients understand procedural results.
 
-3 [General Medical Education]((https://link.springer.com/article/10.1007/s11845-024-03680-y?)
+3 [General Medical Education](https://link.springer.com/article/10.1007/s11845-024-03680-y?)
 
     Sora's potential extends to broader medical education, where it can:
   - Create Educational Content: Generate videos that explain medical concepts, procedures, and patient care techniques.
