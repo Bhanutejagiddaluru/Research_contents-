@@ -26,7 +26,7 @@ Sora is **OpenAL`s ** advanced text-to-video genration model.
 On Going Reseach on Mediacal Side:
 1.  [Neurosurgery Applications](https://link.springer.com/article/10.1007/s10143-024-02514-w)
    
-     Researchers have examined Sora's capabilities in neurosurgery, highlighting its potential in: 
+    Researchers have examined Sora's capabilities in neurosurgery, highlighting its potential in: 
   - Patient Education: Creating videos that elucidate complex neurosurgical procedures for patients.
   - Surgical Training and Planning: Developing realistic simulations to aid in surgical preparation and education.
 
